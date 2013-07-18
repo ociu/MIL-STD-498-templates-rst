@@ -16,6 +16,8 @@ and many wiki engines, and can be actually converted to the most popular documen
 Original files in Markdown format taken from https://github.com/bradfa/MIL-STD-498.
 Appart from format conversion, other changes performed:
 
+- Set DID name as document title
+
 - Removed dots at the end of sections
 
 - Removed section numbers (left to user's decission; docutils can generate them)
