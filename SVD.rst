@@ -1,9 +1,8 @@
+.. _SVD:
+
 ==============================
  Software Version Description
 ==============================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

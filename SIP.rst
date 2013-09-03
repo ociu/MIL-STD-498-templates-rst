@@ -1,9 +1,8 @@
+.. _SIP:
+
 ============================
  Software Installation Plan
 ============================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

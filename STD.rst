@@ -1,9 +1,8 @@
+.. _STD:
+
 ===========================
  Software Test Description
 ===========================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

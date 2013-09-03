@@ -1,9 +1,8 @@
+.. _SUM:
+
 ======================
  Software User Manual
 ======================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

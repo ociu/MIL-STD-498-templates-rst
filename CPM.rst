@@ -1,9 +1,8 @@
+.. _CPM:
+
 =============================
  Computer Programming Manual
 =============================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

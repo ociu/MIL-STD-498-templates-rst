@@ -1,9 +1,8 @@
+.. _STP:
+
 ====================
  Software Test Plan
 ====================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

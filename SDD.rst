@@ -1,9 +1,8 @@
+.. _SDD:
+
 =============================
  Software Design Description
 =============================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

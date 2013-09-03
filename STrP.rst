@@ -1,9 +1,8 @@
+.. _StrP:
+
 ==========================
  Software Transition Plan
 ==========================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

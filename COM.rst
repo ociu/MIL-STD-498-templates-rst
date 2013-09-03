@@ -1,9 +1,8 @@
+.. _COM:
+
 ===========================
  Computer Operation Manual
 ===========================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

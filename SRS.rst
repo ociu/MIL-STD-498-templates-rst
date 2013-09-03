@@ -1,9 +1,8 @@
+.. _SRS:
+
 =====================================
  Software Requirements Specification
 =====================================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

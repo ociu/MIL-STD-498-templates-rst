@@ -1,9 +1,8 @@
+.. _IRS:
+
 ======================================
  Interface Requirements Specification
 ======================================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

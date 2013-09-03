@@ -1,9 +1,8 @@
+.. _DBDD:
+
 =============================
  Database Design Description
 =============================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

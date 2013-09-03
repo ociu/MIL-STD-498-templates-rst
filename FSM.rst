@@ -1,9 +1,8 @@
+.. _FSM:
+
 =========================
  Firmware Support Manual
 =========================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

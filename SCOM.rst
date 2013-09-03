@@ -1,9 +1,8 @@
+.. _SCOM:
+
 =================================
  Software Center Operator Manual
 =================================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

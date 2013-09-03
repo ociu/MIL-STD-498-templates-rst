@@ -1,9 +1,8 @@
+.. _IDD:
+
 ==============================
  Interface Design Description
 ==============================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

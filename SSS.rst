@@ -1,9 +1,8 @@
+.. _SSS:
+
 ================================
  System/Subsystem Specification
 ================================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

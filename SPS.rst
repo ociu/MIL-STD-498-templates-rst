@@ -1,9 +1,8 @@
+.. _SPS:
+
 ================================
  Software Product Specification
 ================================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

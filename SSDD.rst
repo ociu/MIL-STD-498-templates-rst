@@ -1,9 +1,8 @@
+.. _SSDD:
+
 =====================================
  System/Subsystem Design Description
 =====================================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

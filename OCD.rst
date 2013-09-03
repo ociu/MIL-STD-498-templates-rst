@@ -1,9 +1,8 @@
+.. _OCD:
+
 =================================
  Operational Concept Description
 =================================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

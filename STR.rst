@@ -1,9 +1,8 @@
+.. _STR:
+
 ======================
  Software Test Report
 ======================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope

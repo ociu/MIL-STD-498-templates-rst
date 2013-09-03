@@ -1,9 +1,10 @@
+.. -*- coding: utf-8 -*-
+
+.. _SDP:
+
 ===========================
  Software Development Plan
 ===========================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope
@@ -55,6 +56,17 @@ Referenced documents
    all documents referenced in this plan. This section shall also
    identify the source for all documents not available through normal
    Government stocking activities.
+
+.. [EI029-012F]
+   "Systems and Software Development Handbook", Issue F, Eurocopter España S.A, 2012-07-13
+
+   http://intraece.eu.eurocopter.corp/datos/calidad/programa/Carpeta%20procedimientos/R&D_029/EI029012.pdf
+
+
+.. [EI029-013A]
+   "Software Configuration Management Plan", Issue A, Eurocopter España S.A, 2010-11-29
+
+   http://intraece.eu.eurocopter.corp/datos/calidad/programa/Carpeta%20procedimientos/R&D_029/EI029013.pdf
 
 
 Overview of required work

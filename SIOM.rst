@@ -1,9 +1,8 @@
+.. _SIOM:
+
 ==============================
  Software Input/Output Manual
 ==============================
-
-.. contents:: Table of Contents
-.. sectnum::
 
 
 Scope
